@@ -43,7 +43,7 @@
 | Vaccum disc   | 여부에 따른 입원기간의 연관성이 높은 것으로 보인다.       |
 | BMI           | BMI에 따른 입원기간의 연관성을 찾아 보기 힘들다.          |
 <summary>분석스토리</summary>
-분석내용
+
 </details>
 
 <details>
