@@ -41,8 +41,5 @@
 | Vaccum disc   |     |
 | BMI           |       |
 <summary>분석스토리</summary>
-| 분석스토리 |
-|------|
-| ㄴㄴ |
-
+분석
 </details>
