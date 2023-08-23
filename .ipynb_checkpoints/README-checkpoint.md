@@ -40,7 +40,9 @@
 | PT            |         |
 | Vaccum disc   |     |
 | BMI           |       |
-### 분석스토리
+<summary>분석스토리</summary>
+| 분석스토리 |
+|------|
 | ㄴㄴ |
 
 </details>
