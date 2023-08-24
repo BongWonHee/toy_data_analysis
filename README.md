@@ -95,7 +95,7 @@ correlation coefficient(상관관계) : -1 ~ 1 사이 (0에 가까우면 관계�
 | MDCARE_DD_CNT      | 메디케어 공제 횟수에 따라 보험 부담 금액의 변화가 보인다. (pvalue=1.7574341125238046e-62) |
 <summary>분석스토리</summary>
 분석내용(봉원희) : 
-분석내용(정지운) : 
+분석내용(정지운) : 이게 뭐지
     
 <summary>EDC 보험 부담 금액의 정규성 여부 판단과 상관관계 증명</summary>
 
